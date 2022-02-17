@@ -29,8 +29,8 @@ button{
 button p{
     font-size:16px;
 }
-.button-color{
-    background-color: blue;
+.button{
+   display:none;
 }
 
 @keyframes button {
